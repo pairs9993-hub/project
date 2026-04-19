@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run_at": "2026-04-19T07:12:09+09:00",
+  "last_run_at": "2026-04-20T07:12:19+09:00",
   "jobs": {
     "hyundai_motor:2026-N5-53": {
       "source": "hyundai_motor",
@@ -36,7 +36,7 @@
       "title": "[아르바이트] 채용 지원 (남양)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=8",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N4-9": {
       "source": "hyundai_motor",
@@ -45,7 +45,7 @@
       "title": "[아르바이트] HRD 운영지원(남양)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=9",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-79": {
       "source": "hyundai_motor",
@@ -54,7 +54,7 @@
       "title": "[계약직] 행정지원 (장애인 제한경쟁)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=79",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-74": {
       "source": "hyundai_motor",
@@ -63,7 +63,7 @@
       "title": "[계약직] 수소충전소 안전관리",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=74",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-77": {
       "source": "hyundai_motor",
@@ -72,7 +72,7 @@
       "title": "[계약직] 수원하이테크센터 드라이버",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=77",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-76": {
       "source": "hyundai_motor",
@@ -81,7 +81,7 @@
       "title": "[계약직] 수원하이테크센터 고객응대 및 수납",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=76",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-130": {
       "source": "hyundai_motor",
@@ -90,7 +90,7 @@
       "title": "[장애인 표준사업장] 제과 기능사",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=130",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-129": {
       "source": "hyundai_motor",
@@ -99,7 +99,7 @@
       "title": "[장애인 표준사업장] 사업 운영 총괄 (팀장급)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=129",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-131": {
       "source": "hyundai_motor",
@@ -108,7 +108,7 @@
       "title": "[장애인 표준사업장] IT/보안",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=131",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-80": {
       "source": "hyundai_motor",
@@ -117,7 +117,7 @@
       "title": "[계약직] 해외 영입 인재 행정 지원",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=80",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-78": {
       "source": "hyundai_motor",
@@ -126,7 +126,7 @@
       "title": "[계약직] 동부하이테크센터 드라이버",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=78",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-135": {
       "source": "hyundai_motor",
@@ -135,7 +135,7 @@
       "title": "협력사 운영/기획",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=135",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-125": {
       "source": "hyundai_motor",
@@ -144,7 +144,7 @@
       "title": "협력사 사이버 보안 관리",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=125",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-122": {
       "source": "hyundai_motor",
@@ -153,7 +153,7 @@
       "title": "[로보틱스랩] Robotics Service System Development",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=122",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-123": {
       "source": "hyundai_motor",
@@ -162,7 +162,7 @@
       "title": "[로보틱스랩] Robotics Middleware Architecture & SW Platform Development",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=123",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-124": {
       "source": "hyundai_motor",
@@ -171,7 +171,7 @@
       "title": "[로보틱스랩] Perception AI for Robotics Manipulation",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=124",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N4-10": {
       "source": "hyundai_motor",
@@ -180,7 +180,7 @@
       "title": "[아르바이트] IT 사내 문서 데이터 정비/이관",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=10",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-81": {
       "source": "hyundai_motor",
@@ -189,7 +189,7 @@
       "title": "[계약직] 한영 번역사 (양재 본사)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=81",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-374": {
       "source": "hyundai_motor",
@@ -198,7 +198,7 @@
       "title": "차량 사이버보안 모의해킹",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=374",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-350": {
       "source": "hyundai_motor",
@@ -207,7 +207,7 @@
       "title": "연구개발 에너지 관리 (가스)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=350",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-27": {
       "source": "hyundai_motor",
@@ -216,7 +216,7 @@
       "title": "신사업 기회 발굴 및 전략 리서치",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=27",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-76": {
       "source": "hyundai_motor",
@@ -225,7 +225,7 @@
       "title": "배터리 품질기술 개발 (소재)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=76",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-75": {
       "source": "hyundai_motor",
@@ -234,7 +234,7 @@
       "title": "배터리 품질기술 개발 (셀)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=75",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-80": {
       "source": "hyundai_motor",
@@ -243,7 +243,7 @@
       "title": "배터리 제조운영 (활성화)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=80",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-81": {
       "source": "hyundai_motor",
@@ -252,7 +252,7 @@
       "title": "배터리 제조운영 (조립)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=81",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-82": {
       "source": "hyundai_motor",
@@ -261,7 +261,7 @@
       "title": "배터리 제조운영 (전극)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=82",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-83": {
       "source": "hyundai_motor",
@@ -270,7 +270,7 @@
       "title": "배터리 생산관리",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=83",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-77": {
       "source": "hyundai_motor",
@@ -279,7 +279,7 @@
       "title": "배터리 공정기술 (활성화)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=77",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-78": {
       "source": "hyundai_motor",
@@ -288,7 +288,7 @@
       "title": "배터리 공정기술 (조립)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=78",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-79": {
       "source": "hyundai_motor",
@@ -297,7 +297,7 @@
       "title": "배터리 공정기술 (전극)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=79",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-74": {
       "source": "hyundai_motor",
@@ -306,7 +306,7 @@
       "title": "배터리 개발 설비 보전",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=74",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-398": {
       "source": "hyundai_motor",
@@ -315,7 +315,7 @@
       "title": "기아 외장 디자이너",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=398",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-266": {
       "source": "hyundai_motor",
@@ -324,7 +324,7 @@
       "title": "[통합보안] 보안점검(분석)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=266",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-245": {
       "source": "hyundai_motor",
@@ -333,7 +333,7 @@
       "title": "[통합보안] Service Security Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=245",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-396": {
       "source": "hyundai_motor",
@@ -342,7 +342,7 @@
       "title": "[로보틱스랩] Bi-Manipulator 제어",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=396",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-54": {
       "source": "hyundai_motor",
@@ -351,7 +351,7 @@
       "title": "[계약직] 현대/제네시스 인증 중고차 컨택센터 고객상담",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=54",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-4": {
       "source": "hyundai_motor",
@@ -360,7 +360,7 @@
       "title": "[계약직] 울산공장 보안요원(상시채용)",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=4",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N5-11": {
       "source": "hyundai_motor",
@@ -369,7 +369,7 @@
       "title": "[계약직] CS강사",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=11",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-354": {
       "source": "hyundai_motor",
@@ -378,7 +378,7 @@
       "title": "[SDF] 제조 DX 전문가",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=354",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-28": {
       "source": "hyundai_motor",
@@ -387,7 +387,7 @@
       "title": "[ICT] Service Planner - 글로벌 오너 앱",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=28",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-272": {
       "source": "hyundai_motor",
@@ -396,7 +396,7 @@
       "title": "[ICT] Server Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=272",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-117": {
       "source": "hyundai_motor",
@@ -405,7 +405,7 @@
       "title": "[ICT] Mobile Developer - iOS",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=117",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2025-N2-116": {
       "source": "hyundai_motor",
@@ -414,7 +414,7 @@
       "title": "[ICT] Mobile Developer - Android",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=116",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-105": {
       "source": "hyundai_motor",
@@ -423,7 +423,7 @@
       "title": "[AVP] 모빌리티 플랫폼 UX 기획",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=105",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-99": {
       "source": "hyundai_motor",
@@ -432,7 +432,7 @@
       "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=99",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-102": {
       "source": "hyundai_motor",
@@ -441,7 +441,7 @@
       "title": "[AVP] 모빌리티 서비스 UX 기획",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=102",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-103": {
       "source": "hyundai_motor",
@@ -450,7 +450,7 @@
       "title": "[AVP] 모빌리티 서비스 UI 디자이너",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=103",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-100": {
       "source": "hyundai_motor",
@@ -459,7 +459,7 @@
       "title": "[AVP] 모빌리티 서비스 Software Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=100",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-104": {
       "source": "hyundai_motor",
@@ -468,7 +468,7 @@
       "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=104",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-98": {
       "source": "hyundai_motor",
@@ -477,7 +477,7 @@
       "title": "[AVP] 모빌리티 서비스 Data Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=98",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N2-101": {
       "source": "hyundai_motor",
@@ -486,7 +486,7 @@
       "title": "[AVP] 모빌리티 서비스 Backend Engineer",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=101",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N4-7": {
       "source": "hyundai_motor",
@@ -495,7 +495,7 @@
       "title": "2026년 현대자동차 전주공장 촉탁계약직(기간제) 상시 채용",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=7",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2026-N4-1": {
       "source": "hyundai_motor",
@@ -504,7 +504,7 @@
       "title": "2026년 현대자동차 울산공장 촉탁계약직(기간제) 상시 채용",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=1",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_motor:2022-N4-54": {
       "source": "hyundai_motor",
@@ -513,7 +513,7 @@
       "title": "2026년 현대자동차 아산공장 촉탁계약직(기간제) 상시 채용",
       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2022&recuType=N4&recuCls=54",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_rotem:105352": {
       "source": "hyundai_rotem",
@@ -522,7 +522,7 @@
       "title": "[현대로템] 수시채용_경력",
       "url": "https://hyundai-rotem.recruiter.co.kr/career/jobs/105352",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_rotem:105349": {
       "source": "hyundai_rotem",
@@ -531,7 +531,7 @@
       "title": "[현대로템] 수시채용_계약직",
       "url": "https://hyundai-rotem.recruiter.co.kr/career/jobs/105349",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_rotem:100360": {
       "source": "hyundai_rotem",
@@ -540,7 +540,7 @@
       "title": "[현대로템] 2월 수시채용_계약직",
       "url": "https://hyundai-rotem.recruiter.co.kr/career/jobs/100360",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "hyundai_rotem:100353": {
       "source": "hyundai_rotem",
@@ -549,7 +549,7 @@
       "title": "[현대로템] 2월 수시채용_경력, 신입",
       "url": "https://hyundai-rotem.recruiter.co.kr/career/jobs/100353",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260769": {
       "source": "sk_careers",
@@ -765,7 +765,7 @@
       "title": "2026년 SK피아이씨글로벌 울산공장 전기직무 기술직 신입사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260820",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260813": {
       "source": "sk_careers",
@@ -774,7 +774,7 @@
       "title": "2026년 SK피아이씨글로벌 울산공장 생산직무 기술직 신입사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260813",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260818": {
       "source": "sk_careers",
@@ -783,7 +783,7 @@
       "title": "2026년 SK피아이씨글로벌 울산공장 물류직무 기술직 신입사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260818",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260821": {
       "source": "sk_careers",
@@ -792,7 +792,7 @@
       "title": "2026년 SK피아이씨글로벌 울산공장 계기직무 기술직 경력직 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260821",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260822": {
       "source": "sk_careers",
@@ -801,7 +801,7 @@
       "title": "2026년 SK피아이씨글로벌 울산공장 장치직무 기술직 경력직 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260822",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260646": {
       "source": "sk_careers",
@@ -810,7 +810,7 @@
       "title": "[SK케미칼(GC)] 바이오 소재 개발 R&D 계약직 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260646",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260860": {
       "source": "sk_careers",
@@ -819,7 +819,7 @@
       "title": "품질측정 및 사무지원 담당자",
       "url": "https://www.skcareers.com/Recruit/Detail/R260860",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260882": {
       "source": "sk_careers",
@@ -828,7 +828,7 @@
       "title": "Cloud MSP 운영을 위한 Technical/Solutions Architect",
       "url": "https://www.skcareers.com/Recruit/Detail/R260882",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260883": {
       "source": "sk_careers",
@@ -837,7 +837,7 @@
       "title": "비용 정산 담당자",
       "url": "https://www.skcareers.com/Recruit/Detail/R260883",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260714": {
       "source": "sk_careers",
@@ -846,7 +846,7 @@
       "title": "Energy Solution사업단 사업기획/개발 경력채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260714",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260786": {
       "source": "sk_careers",
@@ -855,7 +855,7 @@
       "title": "SK바이오텍 임원비서 및 총무 운영지원 계약사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260786",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260790": {
       "source": "sk_careers",
@@ -864,7 +864,7 @@
       "title": "[4월] Talent hy-way Maintenance/Operator",
       "url": "https://www.skcareers.com/Recruit/Detail/R260790",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260788": {
       "source": "sk_careers",
@@ -873,7 +873,7 @@
       "title": "[SK이터닉스] 총무 담당 채용 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260788",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260830": {
       "source": "sk_careers",
@@ -882,7 +882,7 @@
       "title": "[경력] SK바이오텍 설비구매 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260830",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260840": {
       "source": "sk_careers",
@@ -891,7 +891,7 @@
       "title": "[경력] SK바이오텍 화학물질 관리 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260840",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260828": {
       "source": "sk_careers",
@@ -900,7 +900,7 @@
       "title": "SK온 Pilot Plant 운영Group 평가실험원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260828",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260735": {
       "source": "sk_careers",
@@ -909,7 +909,7 @@
       "title": "[경력] SK바이오텍 보안 기획 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260735",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260789": {
       "source": "sk_careers",
@@ -918,7 +918,7 @@
       "title": "[경력] SK바이오텍 자금관리 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260789",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260805": {
       "source": "sk_careers",
@@ -927,7 +927,7 @@
       "title": "[SK이터닉스] 비서 채용 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260805",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260807": {
       "source": "sk_careers",
@@ -936,7 +936,7 @@
       "title": "[SK이터닉스] 태양광 사업지원 담당 채용 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260807",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260809": {
       "source": "sk_careers",
@@ -945,7 +945,7 @@
       "title": "[경력] SK바이오텍 경영분석관리 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260809",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260810": {
       "source": "sk_careers",
@@ -954,7 +954,7 @@
       "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260810",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260812": {
       "source": "sk_careers",
@@ -963,7 +963,7 @@
       "title": "[신입] SK바이오텍 품질관리 실험원 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260812",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260814": {
       "source": "sk_careers",
@@ -972,7 +972,7 @@
       "title": "[경력] SK바이오텍 외주 구매 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260814",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260815": {
       "source": "sk_careers",
@@ -981,7 +981,7 @@
       "title": "[경력] SK바이오텍 원자재 구매 담당자 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260815",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260816": {
       "source": "sk_careers",
@@ -990,7 +990,7 @@
       "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260816",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260834": {
       "source": "sk_careers",
@@ -999,7 +999,7 @@
       "title": "[신입] SK바이오텍 생산엔지니어 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260834",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260835": {
       "source": "sk_careers",
@@ -1008,7 +1008,7 @@
       "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260835",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260839": {
       "source": "sk_careers",
@@ -1017,7 +1017,7 @@
       "title": "[경력] SK바이오텍 안전담당자(공정/산업) 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260839",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260841": {
       "source": "sk_careers",
@@ -1026,7 +1026,7 @@
       "title": "[신입] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260841",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260842": {
       "source": "sk_careers",
@@ -1035,7 +1035,7 @@
       "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260842",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260845": {
       "source": "sk_careers",
@@ -1044,7 +1044,7 @@
       "title": "[신입] SK바이오텍 일반구매 담당자 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260845",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260846": {
       "source": "sk_careers",
@@ -1053,7 +1053,7 @@
       "title": "[신입] SK바이오텍 원자재 구매 담당자 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260846",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260847": {
       "source": "sk_careers",
@@ -1062,7 +1062,7 @@
       "title": "[신입] SK바이오텍 외주생산 구매 담당자 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260847",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260896": {
       "source": "sk_careers",
@@ -1071,7 +1071,7 @@
       "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260896",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260897": {
       "source": "sk_careers",
@@ -1080,7 +1080,7 @@
       "title": "SK플라즈마 Global PJT 담당 QA 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260897",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260898": {
       "source": "sk_careers",
@@ -1089,7 +1089,7 @@
       "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260898",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260899": {
       "source": "sk_careers",
@@ -1098,7 +1098,7 @@
       "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260899",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260900": {
       "source": "sk_careers",
@@ -1107,7 +1107,7 @@
       "title": "SK플라즈마 Global PJT 담당 생산 DP 부문 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260900",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260901": {
       "source": "sk_careers",
@@ -1116,7 +1116,7 @@
       "title": "SK플라즈마 Global PJT 담당 QA Validation 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260901",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260902": {
       "source": "sk_careers",
@@ -1125,7 +1125,7 @@
       "title": "SK플라즈마 Global PJT 생산지원 담당 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260902",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260089": {
       "source": "sk_careers",
@@ -1134,7 +1134,7 @@
       "title": "[SK케미칼(GC)] 계약직 비서 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260089",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260762": {
       "source": "sk_careers",
@@ -1143,7 +1143,7 @@
       "title": "2026년 상반기 L HOUSE 완제생산실(완제 의약품 생산) 신입/경력 계약직 사원 채용공고",
       "url": "https://www.skcareers.com/Recruit/Detail/R260762",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260766": {
       "source": "sk_careers",
@@ -1152,7 +1152,7 @@
       "title": "2026년 상반기 L HOUSE 완제생산실(이물검사) 신입/경력 계약직 사원 채용 공고",
       "url": "https://www.skcareers.com/Recruit/Detail/R260766",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260869": {
       "source": "sk_careers",
@@ -1161,7 +1161,7 @@
       "title": "SK피아이씨글로벌 생산직무 석유화학공정 교관 경력직 채용(계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260869",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260794": {
       "source": "sk_careers",
@@ -1170,7 +1170,7 @@
       "title": "SK피아이씨글로벌 사업개발 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260794",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260771": {
       "source": "sk_careers",
@@ -1179,7 +1179,7 @@
       "title": "HR기획 및 운영 구성원 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260771",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260669": {
       "source": "sk_careers",
@@ -1188,7 +1188,7 @@
       "title": "토목사업 Project 공사(토목/건축), 공무 경력직(촉탁직) 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260669",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260675": {
       "source": "sk_careers",
@@ -1197,7 +1197,7 @@
       "title": "건축사업 Project 공사(건축/전기/설비) 경력직(촉탁직) 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260675",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260721": {
       "source": "sk_careers",
@@ -1206,7 +1206,7 @@
       "title": "[SK에어플러스] 사무지원(데이터관리)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260721",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260748": {
       "source": "sk_careers",
@@ -1215,7 +1215,7 @@
       "title": "연료전지 사업 공사(전기) 경력직(촉탁직) 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260748",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260760": {
       "source": "sk_careers",
@@ -1224,7 +1224,7 @@
       "title": "[엔솔브] ESS EPC 프로젝트 담당 경력 구성원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260760",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260770": {
       "source": "sk_careers",
@@ -1233,7 +1233,7 @@
       "title": "[SK에어플러스] Gas Plant 공정 엔지니어",
       "url": "https://www.skcareers.com/Recruit/Detail/R260770",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260778": {
       "source": "sk_careers",
@@ -1242,7 +1242,7 @@
       "title": "건축사업 공동주택 브랜드 홍보 담당자 경력직(촉탁직) 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260778",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260798": {
       "source": "sk_careers",
@@ -1251,7 +1251,7 @@
       "title": "데이터 분석 및 디지털 마케팅 담당자",
       "url": "https://www.skcareers.com/Recruit/Detail/R260798",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260850": {
       "source": "sk_careers",
@@ -1260,7 +1260,7 @@
       "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260850",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260854": {
       "source": "sk_careers",
@@ -1269,7 +1269,7 @@
       "title": "SHE(환경관리자) 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260854",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260855": {
       "source": "sk_careers",
@@ -1278,7 +1278,7 @@
       "title": "SCM 경력사원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260855",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260861": {
       "source": "sk_careers",
@@ -1287,7 +1287,7 @@
       "title": "[삼강에스앤씨] 생산/공정 지원 구성원 모집(경력)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260861",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260867": {
       "source": "sk_careers",
@@ -1296,7 +1296,7 @@
       "title": "[O&M] 발전지원실 기계 분야 경력사원 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260867",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260868": {
       "source": "sk_careers",
@@ -1305,7 +1305,7 @@
       "title": "[O&M] 발전지원실 운영관리 분야 경력사원 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260868",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260871": {
       "source": "sk_careers",
@@ -1314,7 +1314,7 @@
       "title": "SK키파운드리 제조 Engineer 신입 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260871",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260877": {
       "source": "sk_careers",
@@ -1323,7 +1323,7 @@
       "title": "[SK케미칼] 의약품 분석 경력 연구원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260877",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260878": {
       "source": "sk_careers",
@@ -1332,7 +1332,7 @@
       "title": "2026년 ISC 연구소 수시채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260878",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260888": {
       "source": "sk_careers",
@@ -1341,7 +1341,7 @@
       "title": "SK키파운드리 경영기획 Junior Talent 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260888",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260889": {
       "source": "sk_careers",
@@ -1350,7 +1350,7 @@
       "title": "SK키파운드리 공정기술(Cleaning) 분야 경력 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260889",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260694": {
       "source": "sk_careers",
@@ -1359,7 +1359,7 @@
       "title": "전기차 충전기 전장/하네스 설계 담당 (3~9년차)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260694",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260695": {
       "source": "sk_careers",
@@ -1368,7 +1368,7 @@
       "title": "EV 충전기 임베디드 FW 개발 (5~7년차)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260695",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260696": {
       "source": "sk_careers",
@@ -1377,7 +1377,7 @@
       "title": "전기차 충전 HW 신뢰성·품질분석 Senior Engineer",
       "url": "https://www.skcareers.com/Recruit/Detail/R260696",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260862": {
       "source": "sk_careers",
@@ -1386,7 +1386,7 @@
       "title": "[신입] SK바이오텍 설비관리 운전원 신입사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260862",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260863": {
       "source": "sk_careers",
@@ -1395,7 +1395,7 @@
       "title": "[경력] SK바이오텍 품질보증원(QA) 경력사원 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260863",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260865": {
       "source": "sk_careers",
@@ -1404,7 +1404,7 @@
       "title": "GCP QA 경력 구성원 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260865",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260866": {
       "source": "sk_careers",
@@ -1413,7 +1413,7 @@
       "title": "경영기획 경력 구성원 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260866",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260537": {
       "source": "sk_careers",
@@ -1422,7 +1422,7 @@
       "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260537",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260539": {
       "source": "sk_careers",
@@ -1431,7 +1431,7 @@
       "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260539",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260540": {
       "source": "sk_careers",
@@ -1440,7 +1440,7 @@
       "title": "설비(Utility) 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260540",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260541": {
       "source": "sk_careers",
@@ -1449,7 +1449,7 @@
       "title": "SAP ERP SCM 컨설턴트(SD/MM/PP) 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260541",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260542": {
       "source": "sk_careers",
@@ -1458,7 +1458,7 @@
       "title": "보안 아키텍트 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260542",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260543": {
       "source": "sk_careers",
@@ -1467,7 +1467,7 @@
       "title": "IT보안 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260543",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260544": {
       "source": "sk_careers",
@@ -1476,7 +1476,7 @@
       "title": "OT보안 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260544",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260545": {
       "source": "sk_careers",
@@ -1485,7 +1485,7 @@
       "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260545",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260546": {
       "source": "sk_careers",
@@ -1494,7 +1494,7 @@
       "title": "Digital Twin 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260546",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260547": {
       "source": "sk_careers",
@@ -1503,7 +1503,7 @@
       "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260547",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260548": {
       "source": "sk_careers",
@@ -1512,7 +1512,7 @@
       "title": "AI 데이터센터 기계설비 구축 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260548",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260549": {
       "source": "sk_careers",
@@ -1521,7 +1521,7 @@
       "title": "SCM 개발/운영 및 솔루션 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260549",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260588": {
       "source": "sk_careers",
@@ -1530,7 +1530,7 @@
       "title": "제조 생산/물류 시뮬레이션, Planning & Scheduling, Dispatching 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260588",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260589": {
       "source": "sk_careers",
@@ -1539,7 +1539,7 @@
       "title": "반도체 R&D 시스템 어플리케이션 설계 및 리딩 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260589",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260590": {
       "source": "sk_careers",
@@ -1548,7 +1548,7 @@
       "title": "반도체 R&D 시스템 사업 수행 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260590",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260591": {
       "source": "sk_careers",
@@ -1557,7 +1557,7 @@
       "title": "제조 솔루션(미들웨어) 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260591",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260592": {
       "source": "sk_careers",
@@ -1566,7 +1566,7 @@
       "title": "제조 솔루션(MES) 분야 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260592",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260593": {
       "source": "sk_careers",
@@ -1575,7 +1575,7 @@
       "title": "반도체 MES 개발/운영 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260593",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260594": {
       "source": "sk_careers",
@@ -1584,7 +1584,7 @@
       "title": "반도체 차세대 Platform 구축 프로젝트 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260594",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260595": {
       "source": "sk_careers",
@@ -1593,7 +1593,7 @@
       "title": "반도체 차세대 Platform 구축 프로젝트 개발자 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260595",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260596": {
       "source": "sk_careers",
@@ -1602,7 +1602,7 @@
       "title": "데이터센터 기계/공조설비 전문가 영입 (판교 근무, 계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260596",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260597": {
       "source": "sk_careers",
@@ -1611,7 +1611,7 @@
       "title": "P&T 분야 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260597",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260598": {
       "source": "sk_careers",
@@ -1620,7 +1620,7 @@
       "title": "SAP HR/CO/MM/BC 모듈 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260598",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260603": {
       "source": "sk_careers",
@@ -1629,7 +1629,7 @@
       "title": "반도체 용인 클러스터 인프라 아키텍트(DB) 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260603",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260737": {
       "source": "sk_careers",
@@ -1638,7 +1638,7 @@
       "title": "보안 진단 전문가 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260737",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260773": {
       "source": "sk_careers",
@@ -1647,7 +1647,7 @@
       "title": "전력시스템 설계 연구원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260773",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260774": {
       "source": "sk_careers",
@@ -1656,7 +1656,7 @@
       "title": "전력망 운영 시스템 연구원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260774",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260783": {
       "source": "sk_careers",
@@ -1665,7 +1665,7 @@
       "title": "2026년 상반기 L HOUSE QC Chem팀 신입/경력 계약직 사원 채용 공고",
       "url": "https://www.skcareers.com/Recruit/Detail/R260783",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260792": {
       "source": "sk_careers",
@@ -1674,7 +1674,7 @@
       "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 채용 공고",
       "url": "https://www.skcareers.com/Recruit/Detail/R260792",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260719": {
       "source": "sk_careers",
@@ -1683,7 +1683,7 @@
       "title": "전기차 충전기(HW) 신뢰성 평가 담당 (2~8년차)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260719",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260724": {
       "source": "sk_careers",
@@ -1692,7 +1692,7 @@
       "title": "전략기획팀 경영 전략/기획 담당",
       "url": "https://www.skcareers.com/Recruit/Detail/R260724",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260017": {
       "source": "sk_careers",
@@ -1701,7 +1701,7 @@
       "title": "2026년 SK에코플랜트 안전관리자(촉탁직) 경력직 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260017",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260015": {
       "source": "sk_careers",
@@ -1710,7 +1710,7 @@
       "title": "2026년 SK에코플랜트 보건관리자(촉탁직) 경력직 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260015",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260356": {
       "source": "sk_careers",
@@ -1719,7 +1719,7 @@
       "title": "2026년 SK에코플랜트 안전관리자(계약직) 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260356",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260357": {
       "source": "sk_careers",
@@ -1728,7 +1728,7 @@
       "title": "2026년 SK에코플랜트 보건관리자(계약직) 영입",
       "url": "https://www.skcareers.com/Recruit/Detail/R260357",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260562": {
       "source": "sk_careers",
@@ -1737,7 +1737,7 @@
       "title": "2026 SK오앤에스 Access 현장운용지원 구성원 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260562",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260640": {
       "source": "sk_careers",
@@ -1746,7 +1746,7 @@
       "title": "Cyber Security 컨설턴트 (인턴)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260640",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260751": {
       "source": "sk_careers",
@@ -1755,7 +1755,7 @@
       "title": "AI 제조혁신 컨설턴트 (인턴)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260751",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260761": {
       "source": "sk_careers",
@@ -1764,7 +1764,7 @@
       "title": "[SK에어플러스]용인 Project 배관 품질/시공 감독(경력직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260761",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260817": {
       "source": "sk_careers",
@@ -1773,7 +1773,7 @@
       "title": "2026년 상반기 L HOUSE QC System팀 신입/경력 계약직 사원 채용 공고",
       "url": "https://www.skcareers.com/Recruit/Detail/R260817",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260698": {
       "source": "sk_careers",
@@ -1782,7 +1782,7 @@
       "title": "EV 충전기 플랫폼 SW 엔지니어 (경력)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260698",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260874": {
       "source": "sk_careers",
@@ -1791,7 +1791,7 @@
       "title": "SK피아이씨글로벌 자산관리 경력사원 채용(계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260874",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260884": {
       "source": "sk_careers",
@@ -1800,7 +1800,7 @@
       "title": "[SK에어코어] 토목건축 엔지니어(계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260884",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260870": {
       "source": "sk_careers",
@@ -1809,7 +1809,7 @@
       "title": "2026 KOREA NEXLENE COMPANY EHSS 경력 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260870",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260895": {
       "source": "sk_careers",
@@ -1818,7 +1818,7 @@
       "title": "SK키파운드리 국내 변호사 경력 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260895",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260797": {
       "source": "sk_careers",
@@ -1827,7 +1827,7 @@
       "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260797",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260819": {
       "source": "sk_careers",
@@ -1836,7 +1836,7 @@
       "title": "2026년 SK가스 결산 사무지원 계약직 모집 (채용 시 마감)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260819",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260892": {
       "source": "sk_careers",
@@ -1845,7 +1845,7 @@
       "title": "2026년 SK가스 국내변호사 신입 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260892",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260893": {
       "source": "sk_careers",
@@ -1854,7 +1854,7 @@
       "title": "2026년 SK가스 해외변호사 신입 모집",
       "url": "https://www.skcareers.com/Recruit/Detail/R260893",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260849": {
       "source": "sk_careers",
@@ -1863,7 +1863,7 @@
       "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260849",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260782": {
       "source": "sk_careers",
@@ -1872,7 +1872,7 @@
       "title": "[SK리비오] 영업 인력 계약직 채용 (경력)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260782",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R252366": {
       "source": "sk_careers",
@@ -1881,7 +1881,7 @@
       "title": "CR/GR 담당자",
       "url": "https://www.skcareers.com/Recruit/Detail/R252366",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260857": {
       "source": "sk_careers",
@@ -1890,7 +1890,7 @@
       "title": "[SK디앤디] 회계 사무지원 채용 (계약직)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260857",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260028": {
       "source": "sk_careers",
@@ -1899,7 +1899,7 @@
       "title": "AIML Engineer (리더)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260028",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260106": {
       "source": "sk_careers",
@@ -1908,7 +1908,7 @@
       "title": "Data Analyst",
       "url": "https://www.skcareers.com/Recruit/Detail/R260106",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260107": {
       "source": "sk_careers",
@@ -1917,7 +1917,7 @@
       "title": "DevOps Engineer",
       "url": "https://www.skcareers.com/Recruit/Detail/R260107",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260115": {
       "source": "sk_careers",
@@ -1926,7 +1926,7 @@
       "title": "사내 시스템 기획/관리 담당자",
       "url": "https://www.skcareers.com/Recruit/Detail/R260115",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260332": {
       "source": "sk_careers",
@@ -1935,7 +1935,7 @@
       "title": "Product Manager",
       "url": "https://www.skcareers.com/Recruit/Detail/R260332",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260339": {
       "source": "sk_careers",
@@ -1944,7 +1944,7 @@
       "title": "QA Automation Engineer",
       "url": "https://www.skcareers.com/Recruit/Detail/R260339",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260358": {
       "source": "sk_careers",
@@ -1953,7 +1953,7 @@
       "title": "ASPICE Process Manager",
       "url": "https://www.skcareers.com/Recruit/Detail/R260358",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260408": {
       "source": "sk_careers",
@@ -1971,7 +1971,7 @@
       "title": "Automotive Cybersecurity Manager",
       "url": "https://www.skcareers.com/Recruit/Detail/R260578",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260660": {
       "source": "sk_careers",
@@ -1980,7 +1980,7 @@
       "title": "Product Designer - TMAP AUTO 인포테인먼트",
       "url": "https://www.skcareers.com/Recruit/Detail/R260660",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260685": {
       "source": "sk_careers",
@@ -1998,7 +1998,7 @@
       "title": "AUTO QE (리더)",
       "url": "https://www.skcareers.com/Recruit/Detail/R260738",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260759": {
       "source": "sk_careers",
@@ -2007,7 +2007,7 @@
       "title": "개인 정보보호 담당자",
       "url": "https://www.skcareers.com/Recruit/Detail/R260759",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "sk_careers:R260553": {
       "source": "sk_careers",
@@ -2016,7 +2016,7 @@
       "title": "DS(원액생산) 경력사원 상시 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R260553",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22136": {
       "source": "samsung_careers",
@@ -2025,7 +2025,7 @@
       "title": "경력사원 채용(심리상담사)",
       "url": "https://www.samsungcareers.com/hr/?no=22136",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22133": {
       "source": "samsung_careers",
@@ -2034,7 +2034,7 @@
       "title": "경력사원 채용(연구개발)",
       "url": "https://www.samsungcareers.com/hr/?no=22133",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22135": {
       "source": "samsung_careers",
@@ -2043,7 +2043,7 @@
       "title": "경력사원 채용(퍼포먼스마케팅, 소재디자이너, 브랜드마케팅, VMD)",
       "url": "https://www.samsungcareers.com/hr/?no=22135",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22131": {
       "source": "samsung_careers",
@@ -2052,7 +2052,7 @@
       "title": "경력사원 채용(운영지원)",
       "url": "https://www.samsungcareers.com/hr/?no=22131",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22128": {
       "source": "samsung_careers",
@@ -2061,7 +2061,7 @@
       "title": "경력사원 채용(산업환경플랜트 설계, 3D 자동화 설계, ECO사업개발, 투자)",
       "url": "https://www.samsungcareers.com/hr/?no=22128",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22099": {
       "source": "samsung_careers",
@@ -2070,7 +2070,7 @@
       "title": "프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
       "url": "https://www.samsungcareers.com/hr/?no=22099",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     },
     "samsung_careers:22109": {
       "source": "samsung_careers",
@@ -2079,7 +2079,25 @@
       "title": "프로젝트계약직 경력사원 채용(하이테크 시공, 외주관리, 안전, 품질, 사업관리, 소방설계)",
       "url": "https://www.samsungcareers.com/hr/?no=22109",
       "first_seen_at": "2026-04-18T07:16:55+09:00",
-      "last_seen_at": "2026-04-19T07:12:09+09:00"
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
+    },
+    "sk_careers:R260905": {
+      "source": "sk_careers",
+      "external_id": "R260905",
+      "company": "엔솔브(주)",
+      "title": "[엔솔브] VPP 사업 담당 구성원 채용(경력)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260905",
+      "first_seen_at": "2026-04-20T07:12:19+09:00",
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
+    },
+    "sk_careers:R260885": {
+      "source": "sk_careers",
+      "external_id": "R260885",
+      "company": "전북에너지서비스",
+      "title": "'26년 상반기 전문대졸 신입사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260885",
+      "first_seen_at": "2026-04-20T07:12:19+09:00",
+      "last_seen_at": "2026-04-20T07:12:19+09:00"
     }
   }
 }
